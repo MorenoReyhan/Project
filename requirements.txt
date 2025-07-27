@@ -1,7 +1,7 @@
-﻿streamlit
-pandas
-numpy
-tensorflow
-joblib
-matplotlib
-scikit-learn
+streamlit==1.47.0
+pandas==2.3.1
+numpy==2.1.3
+tensorflow-cpu==2.15.0
+joblib==1.5.1
+matplotlib==3.10.3
+huggingface_hub
